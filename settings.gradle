@@ -1,0 +1,3 @@
+include ':CongestedTextView'
+include ':app'
+rootProject.name = "BoundryLessTextView"

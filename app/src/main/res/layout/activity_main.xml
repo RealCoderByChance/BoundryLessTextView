@@ -20,7 +20,7 @@
         android:id="@+id/conjustedTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text=" Akanshg "
+        android:text=" Android "
         android:textSize="80sp"
         android:fontFamily="@font/brock_script"
         android:textColor="@color/black"/>
